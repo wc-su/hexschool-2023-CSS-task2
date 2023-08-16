@@ -1,0 +1,27 @@
+.text-tertiary {
+  color: $tertiary;
+}
+
+.flex-basis-306 {
+  flex-basis: 306px;
+}
+
+.introduction-bg {
+  background: url("../images/background-img.png");
+}
+
+.contact-socials {
+  a img {
+    border-radius: 40px;
+  }
+  a:hover img {
+    box-shadow: 0 0 16px 3px rgba(144, 148, 255, 0.9);
+  }
+}
+
+.contact-bg {
+  background: linear-gradient(#050014, #01021E);
+}
+.contact-btn:hover img {
+  filter: brightness(0);
+}

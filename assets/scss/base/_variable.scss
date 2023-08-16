@@ -1,0 +1,17 @@
+// use grid
+$enable-grid-classes: false;
+$enable-cssgrid: true;
+
+// use gradients
+$enable-gradients: true;
+
+// change header line height
+$headings-line-height: 1.5; // 1.2
+
+$link-decoration: none; // underline !default;
+
+$font-family-sans-serif: 'Bruno Ace SC', cursive, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+
+$primary:   #15161D; // $blue !default;
+$secondary: #D1D1D1; // $gray-600 !default;
+$tertiary:  #00FFA3;

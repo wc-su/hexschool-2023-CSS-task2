@@ -1,0 +1,6 @@
+.btn-custom-white {
+  @include button-variant($white, $white, $black, $tertiary, $tertiary);
+}
+.btn-custom-black {
+  @include button-variant($black, $black, $white, $white, $black);
+}
