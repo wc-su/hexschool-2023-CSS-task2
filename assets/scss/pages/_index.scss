@@ -6,6 +6,10 @@
   flex-basis: 306px;
 }
 
+.nav-contact-link:hover {
+  color: $tertiary !important;
+}
+
 .introduction-bg {
   background: url("../images/background-img.png");
 }
@@ -20,7 +24,7 @@
 }
 
 .contact-bg {
-  background: linear-gradient(#050014, #01021E);
+  background: linear-gradient(#050014, #01021e);
 }
 .contact-btn:hover img {
   filter: brightness(0);
